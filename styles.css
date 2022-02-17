@@ -5,3 +5,16 @@ body {
 .centered {
   text-align: center;
 }
+
+.circle2 {
+  fill: #b9edd8;
+}
+
+.circle2:hover {
+  stroke: #000000;
+  stroke-width: 3px;
+}
+
+circle {
+  padding: 10px;
+}
