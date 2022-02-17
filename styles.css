@@ -12,3 +12,11 @@ body {
   stroke-width: 3px;
   padding: 5px;
 }
+.circle2 {
+  fill: #b9edd8;
+}
+
+.circle2:hover {
+  stroke: #000000;
+  stroke-width: 3px;
+}
