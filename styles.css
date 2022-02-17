@@ -6,6 +6,12 @@ body {
   text-align: center;
 }
 
+.circle1 {
+  fill: red;
+  stroke: black;
+  stroke-width: 3px;
+  padding: 5px;
+}
 .circle2 {
   fill: #b9edd8;
 }
