@@ -5,3 +5,10 @@ body {
 .centered {
   text-align: center;
 }
+
+.circle1 {
+  fill: red;
+  stroke: black;
+  stroke-width: 3px;
+  padding: 5px;
+}
